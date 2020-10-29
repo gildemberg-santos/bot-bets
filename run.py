@@ -1,3 +1,6 @@
+
+#! venv/bin/python
+# -*- coding=utf-8 -*-
 # run.py
 #
 # Copyright 2020 Gildemberg Santos <gildemberg.santos@gmail.com>
